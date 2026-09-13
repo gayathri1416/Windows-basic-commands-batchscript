@@ -26,6 +26,7 @@ Create a directory named "my-folder"
 
 ## COMMAND AND OUTPUT
 ![alt text](<Screenshot 2026-09-08 133530.png>)
+
 Remove the directory "my-folder"
 
 ## COMMAND AND OUTPUT
@@ -36,6 +37,7 @@ Create the file Rose.txt
 ## COMMAND AND OUTPUT
 ![alt text](<Screenshot 2026-09-08 133546.png>)
 ![alt text](<Screenshot 2026-09-08 133550.png>)
+
 Create the file hello.txt using echo and redirection
 
 ## COMMAND AND OUTPUT
@@ -44,8 +46,11 @@ Copy the file hello.txt into the file hello1.txt
 
 ## COMMAND AND OUTPUT
 ![alt text](<Screenshot 2026-09-08 133603-1.png>) 
+
 ![alt text](<Screenshot 2026-09-08 133555.png>) 
+
 ![alt text](<Screenshot 2026-09-08 133558.png>)
+
 Remove the file hello1.txt
 
 ## COMMAND AND OUTPUT
@@ -55,6 +60,7 @@ List out the file hello1.txt in the current directory
 
 ## COMMAND AND OUTPUT
 ![alt text](<Screenshot 2026-09-08 133623.png>)
+
 List out all the associated file extensions 
 
 ## COMMAND AND OUTPUT
