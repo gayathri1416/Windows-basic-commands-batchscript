@@ -25,17 +25,17 @@ Execute the necessary commands/batch file for the desired output.
 Create a directory named "my-folder"
 
 ## COMMAND AND OUTPUT
-![alt text](<../Screenshot 2026-09-08 133530.png>)
+![alt text](<Screenshot 2026-09-08 133530.png>)
 Remove the directory "my-folder"
 
 ## COMMAND AND OUTPUT
-![alt text](<../Screenshot 2026-09-08 133536.png>)
+![alt text](<Screenshot 2026-09-08 133536.png>)
 
 Create the file Rose.txt
 
 ## COMMAND AND OUTPUT
-![alt text](<../Screenshot 2026-09-08 133546.png>)
-![alt text](<../Screenshot 2026-09-08 133550.png>)
+![alt text](<Screenshot 2026-09-08 133546.png>)
+![alt text](<Screenshot 2026-09-08 133550.png>)
 Create the file hello.txt using echo and redirection
 
 ## COMMAND AND OUTPUT
@@ -43,9 +43,9 @@ Create the file hello.txt using echo and redirection
 Copy the file hello.txt into the file hello1.txt
 
 ## COMMAND AND OUTPUT
-![alt text](<../Screenshot 2026-09-08 133555.png>)
-![alt text](<../Screenshot 2026-09-08 133609.png>)
-![alt text](<../Screenshot 2026-09-08 133603.png>)
+![alt text](<Screenshot 2026-09-08 133555.png>)
+![alt text](<Screenshot 2026-09-08 133609.png>)
+![alt text](<Screenshot 2026-09-08 133603.png>)
 Remove the file hello1.txt
 
 ## COMMAND AND OUTPUT
