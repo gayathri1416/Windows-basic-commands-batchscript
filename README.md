@@ -43,9 +43,9 @@ Create the file hello.txt using echo and redirection
 Copy the file hello.txt into the file hello1.txt
 
 ## COMMAND AND OUTPUT
-![alt text](<Screenshot 2026-09-08 133555.png>)
-![alt text](<Screenshot 2026-09-08 133609.png>)
-![alt text](<Screenshot 2026-09-08 133603.png>)
+![alt text](<Screenshot 2026-09-08 133603-1.png>) 
+![alt text](<Screenshot 2026-09-08 133555.png>) 
+![alt text](<Screenshot 2026-09-08 133558.png>)
 Remove the file hello1.txt
 
 ## COMMAND AND OUTPUT
